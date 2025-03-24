@@ -20,7 +20,7 @@
 - I am a soon-to-be graduate, Class of 2026, in Software Engineering.
 - Currently working in Back-End services with C#, soon to put hands on a web-app implemented an authored API with SpringBoot
 - Currently learning Salesforce too! Soon to get a SalesForce developer Certification
-- My LinkedIn! [link](https://www.linkedin.com/in/omarariasr/)
+- [My LinkedIn](https://www.linkedin.com/in/omarariasr/)
 - On a program with Accenture, learnig Google Cloud Technologies
 
 <br><br>
