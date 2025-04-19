@@ -21,7 +21,7 @@
 - Currently working in Back-End services with C#, soon to put hands on a web-app implemented an authored API with SpringBoot
 - Currently learning Salesforce too! Soon to get a SalesForce developer Certification
 - [My LinkedIn](https://www.linkedin.com/in/omarariasr/)
-- On a program with Accenture, learnig Google Cloud Technologies
+- On a program with Accenture, learning Google Cloud Technologies
 
 <br><br>
 
